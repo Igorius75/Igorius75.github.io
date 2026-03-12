@@ -106,6 +106,7 @@
 		(property "Value" "11k"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bf7dead7-da06-40a3-83c7-ed13ad346c6d")
 			(effects
 				(font
@@ -280,6 +281,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "33909e0a-09b6-4db5-b775-d28061791fea")
 			(effects
 				(font
@@ -476,28 +478,6 @@
 			(layer "F.Fab")
 			(uuid "3d7fd23e-412e-42ce-8e26-9e2460eb5a5e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 4.11 0 90)
-			(layer "F.Fab")
-			(uuid "bd105e5b-07f2-4f9b-ae67-cb2b53a2693a")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(fp_text user "K"
-			(at 0 -1.8 90)
-			(layer "F.Fab")
-			(uuid "c3c4eba4-9409-464e-ba04-2aa28e21e30d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 90)
 			(size 1.6 1.6)
@@ -554,6 +534,7 @@
 		(property "Value" "4.7k"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "705d7e0e-7aee-448c-abe3-f5465c87044e")
 			(effects
 				(font
@@ -728,6 +709,7 @@
 		(property "Value" "LM334Z"
 			(at 1.27 2.79 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3f8be482-ddf4-472d-853c-2c17d9a8baae")
 			(effects
 				(font
@@ -871,17 +853,6 @@
 			(layer "F.Fab")
 			(uuid "b83e691e-14a1-45cf-bda6-af56b4fc300c")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
-			(layer "F.Fab")
-			(uuid "c2cca83c-631a-4f14-9a68-85fbc3d42519")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at 0 0 90)
 			(size 1.05 1.5)
@@ -945,6 +916,7 @@
 		(property "Value" "15k"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b3c94106-8a0d-4461-a2e8-38fef77da698")
 			(effects
 				(font
@@ -1120,6 +1092,7 @@
 		(property "Value" "Conn_01x11"
 			(at 0 27.78 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1bd113e8-d876-4bf2-9da6-f23c85c99887")
 			(effects
 				(font
@@ -1443,6 +1416,7 @@
 		(property "Value" "100"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8976f4c8-a9ae-43e7-9682-458531516083")
 			(effects
 				(font
@@ -1617,6 +1591,7 @@
 		(property "Value" "860"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "68cb2ffb-7fe2-4376-a39d-448bc54fa97f")
 			(effects
 				(font
